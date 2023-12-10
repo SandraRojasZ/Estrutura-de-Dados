@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1702084079 source:d:\faculdade\ed2d3\projeto_final\projetofinal.c
+	"projetoFinal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/time.h>
+
+1702084063 d:\faculdade\ed2d3\projeto_final\projetofinal.h
+
+1702084170 source:d:\faculdade\ed2d3\projeto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projetoFinal.h"
+
+1702082763 source:d:\faculdade\ed2d3\projeto_final\arvoreavl.c
+	"projetoFinal.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702084086 source:d:\faculdade\ed2d3\projeto_final\arvorerb.c
+	"projetoFinal.h"
+	<stdio.h>
+	<stdlib.h>
+
+1702082763 source:c:\users\sandra\downloads\projeto_final\projeto_final\arvoreavl.c
+	"projetoFinal.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1702168549 c:\users\sandra\downloads\projeto_final\projeto_final\projetofinal.h
+
+1702084086 source:c:\users\sandra\downloads\projeto_final\projeto_final\arvorerb.c
+	"projetoFinal.h"
+	<stdio.h>
+	<stdlib.h>
+
+1702084170 source:c:\users\sandra\downloads\projeto_final\projeto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projetoFinal.h"
+
