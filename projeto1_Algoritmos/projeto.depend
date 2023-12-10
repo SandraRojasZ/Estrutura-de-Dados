@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1697425791 source:c:\faculdade\ed2d3\projeto_ordenacao\projeto\main.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+
+1697425780 c:\faculdade\ed2d3\projeto_ordenacao\projeto\projeto.h
+
+1697585291 source:c:\faculdade\ed2d3\projeto_ordenacao\projeto\projeto.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+
+1699255516 source:c:\users\pichau\downloads\projeto (1)\projeto\projeto.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+
+1699255808 c:\users\pichau\downloads\projeto (1)\projeto\projeto.h
+
+1699255599 source:c:\users\pichau\downloads\projeto (1)\projeto\main.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+
+1699255600 source:c:\users\sandra\downloads\projetop1\projetop1\projeto\main.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+
+1699255810 c:\users\sandra\downloads\projetop1\projetop1\projeto\projeto.h
+
+1702211329 source:c:\users\sandra\downloads\projetop1\projetop1\projeto\projeto.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<math.h>
+
