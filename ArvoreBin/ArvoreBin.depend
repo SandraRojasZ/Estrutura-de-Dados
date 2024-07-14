@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695157242 source:c:\projetos\arvorebin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBin.h"
+
+1695156875 c:\projetos\arvorebin\arvorebin.h
+

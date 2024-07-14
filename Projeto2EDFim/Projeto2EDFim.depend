@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1700970813 source:c:\projetos\projeto2edfim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"projetofim.h"
+
+1700970477 c:\projetos\projeto2edfim\projetofim.h
+	<stdio.h>
+
+1700970255 source:c:\projetos\projeto2edfim\projetofim.c
+	"projetofim.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

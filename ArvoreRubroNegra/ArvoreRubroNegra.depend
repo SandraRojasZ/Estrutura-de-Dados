@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700535796 source:c:\projetos\arvorerubronegra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LLRB.h"
+
+1700536007 c:\projetos\arvorerubronegra\llrb.h
+

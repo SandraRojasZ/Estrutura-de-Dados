@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695346420 source:c:\projetos\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinaria.h"
+
+1695344126 c:\projetos\arvorebinaria\arvorebinaria.h
+

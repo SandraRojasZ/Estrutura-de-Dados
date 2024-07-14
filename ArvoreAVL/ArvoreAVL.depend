@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695347079 source:c:\projetos\arvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1695347981 c:\projetos\arvoreavl\arvoreavl.h
+

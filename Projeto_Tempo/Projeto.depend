@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696938656 source:c:\projetos\projeto\main.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+
+1697136814 c:\projetos\projeto\projeto.h
+
+1697420000 source:c:\projetos\projeto\projeto.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+
